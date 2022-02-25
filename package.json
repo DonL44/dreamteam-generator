@@ -1,0 +1,19 @@
+{
+  "name": "dreamteam-generator",
+  "version": "1.0.0",
+  "description": "Unit 10 Module",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonL44/dreamteam-generator.git"
+  },
+  "author": "DonL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DonL44/dreamteam-generator/issues"
+  },
+  "homepage": "https://github.com/DonL44/dreamteam-generator#readme"
+}
