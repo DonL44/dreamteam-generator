@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DonL44/dreamteam-generator/issues"
   },
-  "homepage": "https://github.com/DonL44/dreamteam-generator#readme"
+  "homepage": "https://github.com/DonL44/dreamteam-generator#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
