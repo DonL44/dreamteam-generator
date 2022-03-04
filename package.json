@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DonL44/dreamteam-generator#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "inquirer": "^8.2.0"
   }
 }
