@@ -176,7 +176,7 @@ const generateTeamPage = function (employeeCards) {
         <div class="card-body">
             <ul class="list-group">
                 <li class="list-group-item">ID: 1123</li>
-                <li class="list-group-item">Email: <a href="mailto:Stanley.Hudson@Test.com">Stanley.Hudsin@Test.com</a></li>
+                <li class="list-group-item">Email: <a href="mailto:Stanley.Hudson@Test.com">Stanley.Hudson@Test.com</a></li>
                 <li class="list-group-item">GitHub: <a href="https://github.com/stanleyhudson" target="_blank" rel="noopener noreferrer">StanleyHudson</a></li>
             </ul>
         </div>
