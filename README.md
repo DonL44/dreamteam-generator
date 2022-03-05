@@ -46,7 +46,7 @@ THEN I exit the application, and the HTML is generated
 ## Screenshot
 This is a screenshot of the generated HTML webpage.
 
-![DreamTeam-Generator HTML Webpage Screenshot](assets\html-screenshot.png)
+![DreamTeam-Generator HTML Webpage Screenshot](https://github.com/DonL44/dreamteam-generator/blob/14c5ed7bdbfda2770eaa0175a92ee94917b0fe1c/assets/html-screenshot.png)
 
 ## Walkthrough Video
 ![Team Generator Walkthrough Video](https://github.com/DonL44/dreamteam-generator/blob/01875e76747decb3182987c7dedde0474919349a/assets/dreamteam-generatordemo.gif)<br> 
