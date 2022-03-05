@@ -49,7 +49,7 @@ This is a screenshot of the generated HTML webpage.
 ![DreamTeam-Generator HTML Webpage Screenshot](assets\html-screenshot.png)
 
 ## Walkthrough Video
-![Team Generator Walkthrough Video](assets\dreamteam-generatordemo.gif)<br> 
+![Team Generator Walkthrough Video](https://github.com/DonL44/dreamteam-generator/blob/01875e76747decb3182987c7dedde0474919349a/assets/dreamteam-generatordemo.gif)<br> 
 Or view link here - [Screencastify](https://drive.google.com/file/d/1fg8xvvBba2PF5kidGrRD1LhYkr7_AfqG/view)
 
 ## Credits
