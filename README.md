@@ -49,4 +49,17 @@ This is a screenshot of the generated HTML webpage.
 ![DreamTeam-Generator HTML Webpage Screenshot](assets\html-screenshot.png)
 
 ## Walkthrough Video
-![Team Generator Walkthrough Video](assets\dreamteam-generatordemo.mov) 
+![Team Generator Walkthrough Video](assets\dreamteam-generatordemo.gif)<br> 
+Or view link here - [Screencastify](https://drive.google.com/file/d/1fg8xvvBba2PF5kidGrRD1LhYkr7_AfqG/view)
+
+## Credits
+- Bootstrap: https://getbootstrap.com/
+- NodeJS: https://nodejs.org/en/
+- Jest: https://www.npmjs.com/package/jest
+- Inquirer: https://www.npmjs.com/package/inquirer
+
+## License
+
+This project was created by DonL as part of the curriculum for the Vanderbuilt Coding Boot Camp
+
+© 2022 Module 10, LLC, Inc. Confidential and Proprietary. All Rights Reserved.
